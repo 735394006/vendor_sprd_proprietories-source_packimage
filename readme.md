@@ -1,5 +1,5 @@
 # sign image
-
+签名img和vbmeta
 secure:
 
 ​	#imgheaderinsert will create "xxx-sign.bin"
